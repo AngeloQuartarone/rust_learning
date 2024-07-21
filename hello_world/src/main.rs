@@ -44,7 +44,6 @@ fn main() {
     }
     let y = y + 2;
     println!("y: {}", y);
-
     let w = 5;
     println!("w: {}", w);
     // here you can not do
