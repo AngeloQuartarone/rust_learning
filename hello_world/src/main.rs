@@ -46,6 +46,7 @@ fn main() {
     println!("y: {}", y);
     let w = 5;
     println!("w: {}", w);
+
     // here you can not do
     // w:"hello";
     // because the type has already been inferred
