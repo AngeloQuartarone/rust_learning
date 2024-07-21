@@ -1,4 +1,4 @@
-echo 'target/*' >> .gitignore
-echo '*.lock' >> .gitignore
-echo '**/*.rs.bk' >> .gitignore
-echo '.vscode/' >> .gitignore
+target/*
+*.lock
+**/*.rs.bk
+.vscode/
