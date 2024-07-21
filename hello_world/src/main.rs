@@ -53,5 +53,7 @@ fn main() {
     let w= "hello!";
     println!("w: {}", w);
 
+    print!("");
+
 
 }
