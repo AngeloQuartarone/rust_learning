@@ -52,8 +52,4 @@ fn main() {
     // because the type has already been inferred
     let w= "hello!";
     println!("w: {}", w);
-
-    print!("");
-
-
 }
